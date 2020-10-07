@@ -62,7 +62,7 @@
     name: 'ImageDetail',
     data() {
       return{
-        apiKey: 'AIzaSyAz_pGw2IGG2TciWu0FaNAAYD-T187DmHU',
+        apiKey: 'XXX',
         id: this.$route.params.id,
         image: '',
         comentario: '',
