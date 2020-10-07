@@ -52,7 +52,7 @@ import  axios from 'axios'
   
   export default {
     data: () => ({
-      apiKey: 'AIzaSyAz_pGw2IGG2TciWu0FaNAAYD-T187DmHU',
+      apiKey: 'XXX',
       file: '',
       images: []
     }),
